@@ -1,10 +1,10 @@
-Nama  : Cindy Oktaviani Eka Prasasti
+Nama  : Siska Nur Aini
 
-NIM   : E41200289
+NIM   : E41202291
 
-Prodi : Teknik Informatika
+Prodi : Teknik Informatika-Kampus Bondowoso
 
-Gol   : A
+Gol   : B 
 
 TUGAS MINGGU 5 ( BUTTOM NAVIGATION )
 
